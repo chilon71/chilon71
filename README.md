@@ -1,9 +1,4 @@
-# Andrii Vykhovanok
-
-**Senior Full-Stack Engineer**  
-TypeScript · React · Node.js
-
----
+![Andrii Vykhovanok | Senior Full-Stack Engineer | TypeScript, React, Node.js](./github-profile-banner.svg)
 
 ## Selected work
 
