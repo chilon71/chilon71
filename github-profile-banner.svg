@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="224" viewBox="0 0 960 224" role="img" aria-labelledby="title desc">
+  <title id="title">Andrii Vykhovanok</title>
+  <desc id="desc">Senior Full-Stack Engineer. TypeScript, React, and Node.js.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#101a2b"/>
+      <stop offset="1" stop-color="#152d45"/>
+    </linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#5f8ead" stroke-opacity=".22"/>
+    </pattern>
+    <clipPath id="card"><rect width="960" height="224" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#card)">
+    <rect width="960" height="224" fill="url(#background)"/>
+    <rect x="680" width="280" height="224" fill="url(#grid)"/>
+    <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M761 88l-23 24 23 24m104-48 23 24-23 24" stroke="#7dd3fc" stroke-width="4"/>
+      <path d="M826 74l-25 76" stroke="#c5ebff" stroke-width="4"/>
+    </g>
+    <rect x="48" y="53" width="4" height="117" rx="2" fill="#7dd3fc"/>
+    <text x="75" y="89" fill="#f3f8fd" font-family="Segoe UI, Arial, sans-serif" font-weight="700" font-size="48">Andrii Vykhovanok</text>
+    <text x="76" y="132" fill="#a6e1ff" font-family="Segoe UI, Arial, sans-serif" font-weight="600" font-size="27">Senior Full-Stack Engineer</text>
+    <text x="76" y="168" fill="#d5e4f1" font-family="Segoe UI, Arial, sans-serif" font-size="22">TypeScript · React · Node.js</text>
+  </g>
+</svg>
