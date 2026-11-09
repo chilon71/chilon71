@@ -4,6 +4,6 @@
 
 ### Applied
 
-I built a feature that takes a job listing URL and finds what people have written about the vacancy.
+I built Applied together with another developer. I implemented a feature that takes a job listing URL and finds what people have written about the vacancy.
 
 [View Applied ↗](https://applied.com.ua/) · [LinkedIn ↗](https://www.linkedin.com/in/andrii-vykhovanok/)
