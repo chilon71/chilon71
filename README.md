@@ -1,16 +1,14 @@
-## Hi there 👋
+# Andrii Vykhovanok
 
-<!--
-**chilon71/chilon71** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior Full-Stack Engineer**  
+TypeScript · React · Node.js
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected work
+
+### Applied
+
+I built a feature that takes a job listing URL and finds what people have written about the vacancy.
+
+[View Applied ↗](https://applied.com.ua/) · [LinkedIn ↗](https://www.linkedin.com/in/andrii-vykhovanok/)
